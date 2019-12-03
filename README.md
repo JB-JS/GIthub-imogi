@@ -1,4 +1,5 @@
 # Github의 레포에쓸 유용한 이모지들
+더 많은 이미지를 찾고 싶다면 클릭하세요 => ### https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
 ## :memo: 메모
