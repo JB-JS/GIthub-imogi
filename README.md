@@ -1,5 +1,5 @@
 # Github의 레포에쓸 유용한 이모지들
-더 많은 이미지를 찾고 싶다면 클릭하세요 => https://www.webfx.com/tools/emoji-cheat-sheet/
+더 많은 이모지를 찾고 싶다면 클릭하세요 => https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
 ### :memo: <a href="#">메모</a>
@@ -16,3 +16,6 @@ Introducing new features.
 ### :fire: <a href="#">불이다</a>
   Removing code or files
 
+* Chapter1
+  + 자료구조
+    -알고리즘
