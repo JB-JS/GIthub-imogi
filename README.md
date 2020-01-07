@@ -20,4 +20,4 @@ Introducing new features.
     -알고리즘
 체크 리스트
 [] 체크안된
-[x] 
+[x] 체크된 '[]'
