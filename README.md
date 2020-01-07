@@ -18,4 +18,4 @@ Introducing new features.
 * Chapter1
   + 자료구조
  
-+그런것인가요
++ 그런것인가요
