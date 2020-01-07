@@ -15,7 +15,6 @@ Introducing new features.
 ### :fire: <a href="#">불이다</a>
   Removing code or files
 
-* Chapter1
++ Chapter1
   + 자료구조
  
-+ 그런것인가요
