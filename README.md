@@ -20,4 +20,4 @@ Introducing new features.
 
 체크 리스트
 [] 체크안된
-[x] 체크된 '[]'
++
