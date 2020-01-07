@@ -18,3 +18,6 @@ Introducing new features.
 * Chapter1
   + 자료구조
     -알고리즘
+체크 리스트
+[] 체크안된
+[x] 
