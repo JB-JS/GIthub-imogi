@@ -11,6 +11,9 @@ Introducing new features.
   Improving structure /
   format of the code.
   
+### :star
+
+### :city_sunset
 
 ### :fire: <a href="#">불이다</a>
   Removing code or files
